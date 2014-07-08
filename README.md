@@ -14,6 +14,8 @@ A Class for add pagination on page.
 
 	totalpage : total page of data collection.
 	nowpage : recent page of pagination.
+	prevclass: prevpage's style.
+	netxclass: nextpage's style.
 
 
 ## Use it! ##

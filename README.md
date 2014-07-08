@@ -10,6 +10,10 @@ A Class for add pagination on page.
 
 	To add Page with offset setting.
 
+	Params: 
+
+	totalpage : total page of data collection.
+	nowpage : recent page of pagination.
 
 
 ## Use it! ##

@@ -18,7 +18,6 @@ A Class for add pagination on page.
 	netxclass: nextpage's class style.
 
 
-
 ## Use it! ##
 
     $p = new Pagination;
